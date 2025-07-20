@@ -5,11 +5,9 @@ composer.lock
 src/Core/.DS_Store
 build
 .phpunit.result.cache
-
 **.log
-
-
 *.sqlite3
-
 tests
 example
+phpunit.xml
+release.sh
