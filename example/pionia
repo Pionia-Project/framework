@@ -1,7 +1,0 @@
-#!/usr/bin/env php
-<?php
-
-$code = (require __DIR__.'/bootstrap/routes.php')
-    ->bootConsole();
-
-exit($code);
