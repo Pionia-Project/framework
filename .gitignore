@@ -10,3 +10,8 @@ build
 
 
 *.sqlite3
+
+tests
+.phpdoc
+docs
+example
